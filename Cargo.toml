@@ -1,0 +1,10 @@
+[package]
+name = "riskiks"
+version = "0.1.0"
+authors = ["nilq <i.am@nilq.dk>"]
+
+[dependencies]
+ggez = {
+	git = "https://github.com/ggez/ggez",
+	branch = "master",
+}
