@@ -1,0 +1,1 @@
+{"rustc":17615268967769245645,"target":4463124119631871981,"profile":11625325535095225723,"local":{"variant":"Precalculated","fields":["0.4.1"]},"features":"Some([\"default\", \"ieee754\", \"ogg\"])","deps":[["byteorder v0.5.3",665220565708497830],["ieee754 v0.2.1",12486095855066796646],["ogg v0.4.1",14232433516243960251]],"rustflags":[]}
